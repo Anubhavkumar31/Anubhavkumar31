@@ -144,8 +144,6 @@ flowchart LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavkumar32/)
 
-<img src="https://komarev.com/ghpvc/?username=Anubhavkumar31&style=flat-square&color=2c5364&label=Profile+views" alt="Profile views" />
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%" alt="" />
 
 </div>
