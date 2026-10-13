@@ -81,8 +81,11 @@ flowchart LR
 <img src="https://skillicons.dev/icons?i=py,qt,js,html,css,powershell&perline=6" alt="Languages and desktop" />
 
 **Machine learning & data**<br/>
-<img src="https://skillicons.dev/icons?i=sklearn,mysql&perline=6" alt="ML and data" />
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,mysql&perline=6" alt="ML and data" />
 <br/>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -97,7 +100,7 @@ flowchart LR
 
 - 🔭 Building and improving the inspection software and the ERP app at work
 - 🧪 Making the ML models more accurate and easier to check
-- 💬 Ask me about: Python, PyQt6, data pipelines, ML on sensor data
+- 💬 Ask me about: Python, PyQt6, data pipelines, ML and deep learning on sensor data
 
 ## 🚀 Public projects
 
