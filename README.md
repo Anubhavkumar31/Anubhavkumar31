@@ -119,12 +119,9 @@ flowchart LR
 
 </details>
 
-## 📈 GitHub stats
+## 📈 Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anubhavkumar31&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavkumar31&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Anubhavkumar31&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
