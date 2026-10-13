@@ -123,10 +123,6 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anubhavkumar31&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anubhavkumar31/Anubhavkumar31/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anubhavkumar31/Anubhavkumar31/output/github-snake.svg" />
